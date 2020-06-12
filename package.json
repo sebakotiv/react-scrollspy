@@ -2,15 +2,7 @@
   "name": "react-scrollspy",
   "version": "3.4.2",
   "description": "react scrollspy component",
-  "main": "./lib/scrollspy.js",
-  "files": [
-    "README.md",
-    "lib/scrollspy.js",
-    "lib/throttle.js",
-    "package.json",
-    "webpack.config.js",
-    ".eslintrc"
-  ],
+  "main": "./src/js/lib/scrollspy.js",
   "scripts": {
     "serve": "NODE_ENV=development webpack-dev-server --inline --hot --color",
     "docs": "NODE_ENV=production webpack",

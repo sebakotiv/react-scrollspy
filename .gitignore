@@ -48,3 +48,4 @@ release/
 dist/
 /lib/
 /scrollspy.js
+package-lock.json
