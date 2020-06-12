@@ -45,7 +45,4 @@ release/
 *.tar.gz
 .DS_Store
 .idea
-dist/
-/lib/
-/scrollspy.js
 package-lock.json
